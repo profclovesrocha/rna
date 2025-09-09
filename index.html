@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Alerta de Incêndio</title>
+  <style>
+    body { font-family: Arial; margin: 2em; }
+    input, select, button { margin: 0.5em 0; }
+    .destinatario { display: flex; justify-content: space-between; }
+  </style>
+</head>
+<body>
+  <h1>📢 Sistema de Alerta de Incêndio</h1>
+
+  <form method="post">
+    <label>Adicionar destinatário:</label><br>
+    <input type="email" name="email" required>
+    <button type="submit">Adicionar</button>
+  </form>
+
+  <h3>Destinatários cadastrados:</h3>
+  {% for email in destinatarios %}
+    <div class="destinatario">
+      <span>{{ email }}</span>
+      <form method="post" style="display:inline;">
+        <input type="hidden" name="remover" value="{{ email }}">
+        <button type="submit">Remover</button>
+      </form>
+    </div>
+  {% else %}
+    <p>Nenhum destinatário ainda.</p>
+  {% endfor %}
+
+  <h3>Enviar alerta:</h3>
+  <form method="post">
+    <select name="nivel">
+      <option value="baixo">Incêndio Baixo</option>
+      <option value="alto">Incêndio Alto</option>
+    </select>
+    <button type="submit">Enviar Alerta</button>
+  </form>
+
+  {% if mensagem %}
+    <p><strong>{{ mensagem }}</strong></p>
+  {% endif %}
+</body>
+</html>
