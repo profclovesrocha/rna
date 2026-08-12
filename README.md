@@ -10,9 +10,9 @@ Networks. Hopfield Networks. Growing Neural Networks. Deep Neural Networks. Koho
 Networks. ART Family. Ensembles.
 
 # SPECIFIC COMPETENCIES:
-• Introduce the theory of Artificial Neural Networks, basic concepts, and key supervised and
+- Introduce the theory of Artificial Neural Networks, basic concepts, and key supervised and
 unsupervised learning algorithms, enabling students to discern when to use neural networks
 as a tool;
-• Present neural network software tools and demonstrate their application in forecasting,
+- Present neural network software tools and demonstrate their application in forecasting,
 decision support, classification, and pattern recognition systems;
-• Motivate students by highlighting potential applications to real-world problems.
+- Motivate students by highlighting potential applications to real-world problems.
