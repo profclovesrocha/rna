@@ -1,8 +1,11 @@
 # ARTIFICIAL NEURAL NETWORKS
 - DOCENTE: CLOVES ROCHA
-- DISCENTE: Davy Lucas
-  - ...
-
+- DISCENTE:
+  1. Davy Lucas
+  2. ...
+  3. ...
+ 
+  
 # SYLLABUS:
 - Introduction to Artificial Neural Networks. Artificial Neural Network Architectures. Training
 Algorithms. Perceptron. Delta Rule and Adaline. Multilayer Networks. Radial Basis Function
