@@ -1,4 +1,6 @@
-# ARTIFICIAL NEURAL NETWORKS
+# Welcome!
+* Class Log
+  
 - DOCENTE: CLOVES ROCHA
 - DISCENTE:
   1. Davy Lucas
@@ -19,3 +21,16 @@ as a tool;
 - Present neural network software tools and demonstrate their application in forecasting,
 decision support, classification, and pattern recognition systems;
 - Motivate students by highlighting potential applications to real-world problems.
+
+# ASSESSMENT
+- Assessment 1 (AV1) will (100%) and a written exam—comprising — with the written exam accounting for 100% of the AV1 grade.
+
+- Assessment 2 (AV2) will be divided into projects and a written exam—comprising two assessment components—with the project accounting for 80% and the written exam for 20% of the AV2 grade.
+
+- Practice Test for Written Exams (ENADE Style):
+
+# GROUPS / PROJECTS / CHALLENGES
+
+# Mind Map
+
+# Roadmap - Course_Blueprin
