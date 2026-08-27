@@ -1,13 +1,6 @@
 # Welcome!
 * Class Log
   
-- DOCENTE: CLOVES ROCHA
-- DISCENTE:
-  1. Davy Lucas
-  2. ...
-  3. ...
- 
-  
 # SYLLABUS:
 - Introduction to Artificial Neural Networks. Artificial Neural Network Architectures. Training
 Algorithms. Perceptron. Delta Rule and Adaline. Multilayer Networks. Radial Basis Function
@@ -29,8 +22,21 @@ decision support, classification, and pattern recognition systems;
 
 - Practice Test for Written Exams (ENADE Style):
 
+- DOCENTE: Prof. Mentor Cloves Rocha
+- DISCENTE:
+  1. Davy Lucas
+  2. ...
+  3. ...
+  
 # GROUPS / PROJECTS / CHALLENGES
-
+1. ?
+2. ?
+3. ?
+4. ?
+5. ?
+6. ...
+    
 # Mind Map
+<img width="4427" height="7138" alt="NotebookLM Mind Map (13)" src="https://github.com/user-attachments/assets/72b81c57-0389-4b3f-bed6-7603c15f2f16" />
 
 # Roadmap - Course_Blueprin
