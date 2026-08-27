@@ -1,5 +1,5 @@
 # Prof. Mentor Cloves Rocha - Passos para a Análise de Sentimentos:
-#Coleta de Dados (Simulada):
+# Coleta de Dados (Simulada):
 
 import nltk
 import re
