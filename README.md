@@ -40,3 +40,4 @@ decision support, classification, and pattern recognition systems;
 <img width="4427" height="7138" alt="NotebookLM Mind Map (13)" src="https://github.com/user-attachments/assets/72b81c57-0389-4b3f-bed6-7603c15f2f16" />
 
 # Roadmap - Course_Blueprin
+<img width="2752" height="1536" alt="Neural_Networks_Course_Blueprint_Overview" src="https://github.com/user-attachments/assets/ec1ac6ca-6bc7-49fd-bd22-eb27bc2fc99b" />
