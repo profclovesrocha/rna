@@ -25,7 +25,7 @@ decision support, classification, and pattern recognition systems;
 - DOCENTE: Prof. Mentor Cloves Rocha
 - DISCENTE:
   1. Davy Lucas
-  2. ...
+  2. Allyson Cesario
   3. ...
   
 # GROUPS / PROJECTS / CHALLENGES
