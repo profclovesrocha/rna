@@ -33,7 +33,7 @@ decision support, classification, and pattern recognition systems;
   7. Pedro Vasconcelos
   
 # GROUPS / PROJECTS / CHALLENGES
-1. FrogBits
+1. FrogBits (3,4,5,6,7)
 2. ?
 3. ?
 4. ?
