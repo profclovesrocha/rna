@@ -26,10 +26,14 @@ decision support, classification, and pattern recognition systems;
 - DISCENTE:
   1. Davy Lucas
   2. Allyson Cesario
-  3. ...
+  3. Wagner Daniel
+  4. Sidney Cirino
+  5. Joalison Joaquim
+  6. Fabrício Batista
+  7. Pedro Vasconcelos
   
 # GROUPS / PROJECTS / CHALLENGES
-1. ?
+1. FrogBits
 2. ?
 3. ?
 4. ?
