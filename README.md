@@ -32,10 +32,13 @@ decision support, classification, and pattern recognition systems;
   6. Fabrício Batista
   7. Pedro Vasconcelos
   8. Filipe Gabriel
+  9. Isaac Mateus
+ 10. Gabriel Roberto
+ 11. João Batista
   
 # GROUPS / PROJECTS / CHALLENGES
 1. FrogBits (3,4,5,6,7)
-2. ?
+2. RageBit (8,2,9,10,11)
 3. ?
 4. ?
 5. ?
