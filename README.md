@@ -31,6 +31,7 @@ decision support, classification, and pattern recognition systems;
   5. Joalison Joaquim
   6. Fabrício Batista
   7. Pedro Vasconcelos
+  8. Filipe Gabriel
   
 # GROUPS / PROJECTS / CHALLENGES
 1. FrogBits (3,4,5,6,7)
