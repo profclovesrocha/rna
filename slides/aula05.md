@@ -1,0 +1,2 @@
+- Slides de Apoio: https://gamma.app/docs/Revisao-e-Desafio-em-Grupo-674uk6vcjeqd37u 
+- Fonte do Artigo: https://doi.org/10.1590/0103-8478cr20141524
