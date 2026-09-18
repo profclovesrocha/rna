@@ -1,0 +1,1 @@
+- Aula 06: https://gamma.app/docs/Aula-05-Redes-Perceptron-Multicamadas-e-Backpropagation-p2905tvpix4mcyq
