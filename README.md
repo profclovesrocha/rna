@@ -20,7 +20,8 @@ decision support, classification, and pattern recognition systems;
 
 - Assessment 2 (AV2) will be divided into projects and a written exam—comprising two assessment components—with the project accounting for 80% and the written exam for 20% of the AV2 grade.
 
-- Practice Test for Written Exams (ENADE Style): https://abre.ai/enadestylerna 
+- Practice Test for Written Exams (ENADE Style): https://abre.ai/enadestylerna
+- AVALIAR O DOCENTE: https://forms.gle/RQhogCvz14XVhdYJ7
 
 - DOCENTE: Prof. Mentor Cloves Rocha
 - DISCENTE:
