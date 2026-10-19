@@ -1,5 +1,5 @@
 # Welcome!
-* Class Log
+* Class Log | INSTRUCTOR: CLOVES ROCHA
   
 # SYLLABUS:
 - Introduction to Artificial Neural Networks. Artificial Neural Network Architectures. Training
