@@ -43,7 +43,6 @@ decision support, classification, and pattern recognition systems;
 # GROUPS / PROJECTS / CHALLENGES
 1. FrogBits (3,4,5,6,7)
 2. RageBit (8,2,9,10,11)
-3. ?
     
 # Mind Map
 <img width="4427" height="7138" alt="NotebookLM Mind Map (13)" src="https://github.com/user-attachments/assets/72b81c57-0389-4b3f-bed6-7603c15f2f16" />
